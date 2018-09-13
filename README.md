@@ -1,4 +1,4 @@
-# React-Sterter-A
+# React-Starter-A
 
 ---
 
